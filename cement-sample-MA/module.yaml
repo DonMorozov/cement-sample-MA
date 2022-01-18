@@ -1,7 +1,7 @@
 
 full-build:
   deps:
-
+    - MB
   build:
     target: cement-sample-MA.sln
     configuration: Release
